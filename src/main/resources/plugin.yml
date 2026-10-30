@@ -1,0 +1,9 @@
+name: GodMacePlugin
+version: 1.0
+main: com.example.godmace.GodMacePlugin
+api-version: '1.21'
+commands:
+  godmace:
+    permission: op
+  endfight:
+    permission: op
